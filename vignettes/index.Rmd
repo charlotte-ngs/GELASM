@@ -18,8 +18,8 @@ vignette: >
 
 __Willkommen__ auf der Webseite von
 
-- [751-6212-00L Angewandte Zuchtwertschätzung für Nutztiere](https://www.lehrbetrieb.ethz.ch/edoz/kommLerneinheitPre.do?i=0)
-- [751-7602-00L	Angewandte statistische Methoden in den Nutztierwissenschaften](https://www.lehrbetrieb.ethz.ch/edoz/kommLehrveranstaltungPre.do?i=1&j=0)
+- [751-6212-00L Angewandte Zuchtwertschätzung für Nutztiere](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=104247&semkez=2016S&lang=de)
+- [751-7602-00L	Angewandte statistische Methoden in den Nutztierwissenschaften](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=105248&semkez=2016S&lang=de)
 
 ## Beschreibung
 Die Kursbeschreibung ist dem Vorlesungsverzeichnis entnommen.
