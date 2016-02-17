@@ -6,14 +6,14 @@ author: "Birgit Gredler und Peter von Rohr"
 date: "2016-02-04"
 output: 
   html_document:
-    highlight: tango
+    toc_float: true
+    toc: true
     theme: united
-    toc: yes
-    toc_float: yes
+    highlight: tango
 vignette: >
   %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEncoding{UTF-8}
   %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
 
 __Willkommen__ auf der Webseite von
@@ -111,4 +111,4 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 
       
 ## Letzte Änderung
-_2016-02-17 08:21:15 (PvR)_
+__`r paste(Sys.time(),paste0("(", Sys.getenv("USERNAME"),")" ))`__
