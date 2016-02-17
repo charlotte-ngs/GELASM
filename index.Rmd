@@ -111,4 +111,4 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 
       
 ## Letzte Änderung
-__`r paste(Sys.time(),paste0("(", Sys.getenv("USERNAME"),")" ))`__
+_`r paste(Sys.time(),paste0("(", Sys.getenv("USERNAME"),")" ))`_
