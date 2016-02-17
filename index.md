@@ -6,20 +6,20 @@ author: "Birgit Gredler und Peter von Rohr"
 date: "2016-02-04"
 output: 
   html_document:
-    toc_float: true
-    toc: true
-    theme: united
     highlight: tango
+    theme: united
+    toc: yes
+    toc_float: yes
 vignette: >
   %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
+  %\VignetteEngine{knitr::rmarkdown}
 ---
 
 __Willkommen__ auf der Webseite von
 
-- [751-6212-00L Angewandte Zuchtwertschätzung für Nutztiere](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=104247&semkez=2016S&lang=de)
-- [751-7602-00L	Angewandte statistische Methoden in den Nutztierwissenschaften](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=105248&semkez=2016S&lang=de)
+- [751-6212-00L Angewandte Zuchtwertschätzung für Nutztiere](https://www.lehrbetrieb.ethz.ch/edoz/kommLerneinheitPre.do?i=0)
+- [751-7602-00L	Angewandte statistische Methoden in den Nutztierwissenschaften](https://www.lehrbetrieb.ethz.ch/edoz/kommLehrveranstaltungPre.do?i=1&j=0)
 
 ## Beschreibung
 Die Kursbeschreibung ist dem Vorlesungsverzeichnis entnommen.
@@ -33,7 +33,7 @@ Die genomische Selektion ist in der Tierzucht die Methode der Wahl, das Leistung
 ## Information
 - Dozierende: Birgit Gredler (BG) und Peter von Rohr (PvR)
 - Datum: Montag 8-10
-- Ort: [SOL A3](http://www.mapsearch.ethz.ch/map/map.do?gebaeudeMap=SOL&lang=en)
+- Ort: [LFW C11](http://www.mapsearch.ethz.ch/map/map.do?gebaeudeMap=LFW&lang=en)
 
 ## Fragen
 Fragen können jederzeit während der Vorlesung und während der Übungsstunde oder via Email gestellt werden: 
@@ -111,4 +111,4 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 
       
 ## Letzte Änderung
-_2016-02-17 07:39:19 (PvR)_
+_2016-02-17 08:21:15 (PvR)_
