@@ -29,7 +29,7 @@ Die genomische Selektion ist in der Tierzucht die Methode der Wahl, das Leistung
 ## Information
 - Dozierende: Birgit Gredler (BG) und Peter von Rohr (PvR)
 - Datum: Montag 8-10
-- Ort: [SOL A3](http://www.mapsearch.ethz.ch/map/map.do?gebaeudeMap=SOL&lang=en)
+- Ort: [LFW C11](http://www.mapsearch.ethz.ch/map/map.do?gebaeudeMap=LFW&lang=en)
 
 ## Fragen
 Fragen können jederzeit während der Vorlesung und während der Übungsstunde oder via Email gestellt werden: 
