@@ -93,5 +93,5 @@ knitr::kable(dfSolTable[2:nrow(dfSolTable),])
       
 ## Letzte Änderung
 ```{r, echo=FALSE, results='asis'}
-cat("__`r paste(Sys.time(),paste0(\"(\"), Sys.getenv(\"USERNAME\"),\")\" ))`__\n")
+cat("__`r paste(Sys.time(),paste0(\"(\", Sys.getenv(\"USERNAME\"),\")\" ))`__\n")
 ```
