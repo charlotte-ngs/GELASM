@@ -25,7 +25,7 @@ __Willkommen__ auf der Webseite von
 Die Kursbeschreibung ist dem Vorlesungsverzeichnis entnommen.
 
 ### Angewandte Zuchtwertschätzung für Nutztiere
-Die nationalen Zuchtwertschätzungen bei Rind, Schwein, Schaf und Ziege in der Schweiz werden anhand der verwendeten Methoden und Merkmalen erklärt. Zur Vertiefung werden fallweise Beispiele mit dem Statistikprogramm R berechnet.
+Die nationalen Zuchtwertschätzungen bei Rind, Schwein, Schaf und Ziege in der Schweiz werden anhand der verwendeten Methoden und Merkmalen erklärt. Zur Vertiefung werden fallweise Beispiele berechnet.
 
 ### Angewandte statistische Methoden in den Nutztierwissenschaften
 Die genomische Selektion ist in der Tierzucht die Methode der Wahl, das Leistungspotential der Selektionskandidaten zu verbessern. In dieser Vorlesung wird erklärt, weshalb Regressionen in der genomischen Selektion nicht verwendet werden können und was dann die Alternativen sind. Die vorgestellten Konzepte werden mit Übungen in R veranschaulicht.
