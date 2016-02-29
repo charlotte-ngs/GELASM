@@ -51,7 +51,7 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 | Woche|Datum |Thema                |Wer    |
 |-----:|:-----|:--------------------|:------|
 |     1|22.02 |                     |BG     |
-|     2|29.02 |                     |BG     |
+|     2|29.02 | [Angewandte Zuchtwertschätzung für Nutztiere](http://charlotte-ngs.github.io/GELASM/w2/Slides_20160222_Upload.pdf)                    |BG     |
 |     3|07.03 |                     |BG     |
 |     4|14.03 |                     |BG     |
 |     5|21.03 |                     |BG     |
