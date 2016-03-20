@@ -52,10 +52,11 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 |-----:|:-----|:--------------------|:------|
 |     1|22.02 |                     |BG     |
 |     2|29.02 | [Angewandte Zuchtwertschätzung für Nutztiere](http://charlotte-ngs.github.io/GELASM/w2/Slides_20160222_Upload.pdf)                    |BG     |
-|     3|07.03 |[Casanova Braunvieh Schweiz](http://charlotte-ngs.github.io/GELASM/w3/Vortrag_BraunviehSchweizETHZ_StudentenMärz2016.pdf)                     |BG     |
-|     3|07.03 |[Moll Qualitas AG](http://charlotte-ngs.github.io/GELASM/w3/ETHZ_20160307.pptx.pdf)                     |BG     |
+|     3|07.03 |[L. Casanova: Braunvieh Schweiz](http://charlotte-ngs.github.io/GELASM/w3/Vortrag_BraunviehSchweizETHZ_StudentenMärz2016.pdf)                     |BG     |
+|     3|07.03 |[J. Moll: Qualitas AG](http://charlotte-ngs.github.io/GELASM/w3/ETHZ_20160307.pptx.pdf)                     |BG     |
 |     4|14.03 |[Zuchtwertschätzung Rind](http://charlotte-ngs.github.io/GELASM/w4/Slides_20160314.pptx.pdf)                     |BG     |
-|     5|21.03 |                     |BG     |
+|     5|21.03 |[A. Hofer Zuchtwertschätzung Schwein](http://charlotte-ngs.github.io/GELASM/w5/ZuchtwertschätzungVorlesungETHZürich.pdf)                     |BG     |
+|     5|21.03 |[Zuchtwertschätzung Rind](http://charlotte-ngs.github.io/GELASM/w5/Slides_20160321.pdf)                     |BG     |
 |     6|28.03 |Ostermontag (frei)   |       |
 |     7|04.04 |                     |BG     |
 |     8|11.04 |                     |PvR    |
