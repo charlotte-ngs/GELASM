@@ -58,7 +58,7 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 |     5|21.03 |[A. Hofer Zuchtwertschätzung Schwein](http://charlotte-ngs.github.io/GELASM/w5/ZuchtwertschätzungVorlesungETHZürich.pdf)                     |BG     |
 |     5|21.03 |[Zuchtwertschätzung Rind](http://charlotte-ngs.github.io/GELASM/w5/Slides_20160321.pdf)                     |BG     |
 |     6|28.03 |Ostermontag (frei)   |       |
-|     7|04.04 |                     |BG     |
+|     7|04.04 |[Zuchtwertschätzung Rind/Schaf](http://charlotte-ngs.github.io/GELASM/w7/Slides_20160404.pdf)                     |BG     |
 |     8|11.04 |                     |PvR    |
 |     9|18.04 |                     |PvR    |
 |    10|25.04 |                     |PvR    |
