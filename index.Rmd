@@ -112,6 +112,10 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 
 ### Weiteres Material
 
+|   | Woche|Datum |Thema                |Wer    |
+|:--|-----:|:-----|:--------------------|:------|
+|8  |     8|11.04 |[Präsentation Genomische Selektion](http://www.holstein.ch/medias/pdf/actualite/ad_2016_conf__rence_jacques_chesnais_-_d.ppt)  [(pdf)](http://charlotte-ngs.github.io/GELASM/w8/ad_2016_conf__rence_jacques_chesnais_-_d.pdf) |PvR    |
+
       
 ## Letzte Änderung
 _`r paste(Sys.time(),paste0("(", Sys.info()[["user"]],")" ))`_
