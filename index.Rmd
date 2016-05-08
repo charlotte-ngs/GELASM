@@ -63,7 +63,7 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 |     9|18.04 | [Lineare Regression](http://charlotte-ngs.github.io/GELASM/w9/asmas_w9_v2.pdf)  |PvR    |
 |    10|25.04 | [Lineare Regression (Teil 2)](http://charlotte-ngs.github.io/GELASM/w10/asmas_w10_v3.pdf) |PvR    |
 |    11|02.05 | [Lineare Regression (Teil 3)](http://charlotte-ngs.github.io/GELASM/w11/asmas_w11_v4.pdf) |PvR    |
-|    12|09.05 |                     |PvR    |
+|    12|09.05 | [LASSO](http://charlotte-ngs.github.io/GELASM/w12/asmas_w12_v5.pdf) |PvR    |
 |    13|16.05 |Pfingstmontag (frei) |       |
 |    14|23.05 |                     |PvR    |
 |    15|30.05 |Prüfung             |BG/PvR |
@@ -84,7 +84,7 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 |     9|18.04 | [Statistische Methoden](http://charlotte-ngs.github.io/GELASM/w9/asmas_w9_u1.pdf) |PvR    |
 |    10|25.04 | [Lineare Regression](http://charlotte-ngs.github.io/GELASM/w10/asmas_w10_u2.pdf)  |PvR    |
 |    11|02.05 | [Lineare Regression (Teil 2)](http://charlotte-ngs.github.io/GELASM/w11/asmas_w11_u3.pdf) |PvR    |
-|    12|09.05 |                     |PvR    |
+|    12|09.05 | [Lineare Regression (Teil 3)](http://charlotte-ngs.github.io/GELASM/w12/asmas_w12_u4.pdf) |PvR    |
 |    13|16.05 |Pfingstmontag (frei) |       |
 |    14|23.05 |                     |PvR    |
 |    15|30.05 |Prüfung             |BG/PvR |
@@ -104,7 +104,7 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 |9  |     9|18.04 |                     |PvR    |
 |10 |    10|25.04 | [Statistische Methoden](http://charlotte-ngs.github.io/GELASM/w9/asmas_w9_l1.pdf) |PvR    |
 |11 |    11|02.05 | [Lineare Regression](http://charlotte-ngs.github.io/GELASM/w10/asmas_w10_l2.pdf) |PvR    |
-|12 |    12|09.05 |                     |PvR    |
+|12 |    12|09.05 | [Lineare Regression (Teil 2)](http://charlotte-ngs.github.io/GELASM/w11/asmas_w11_l3.pdf)  |PvR    |
 |13 |    13|16.05 |Pfingstmontag (frei) |       |
 |14 |    14|23.05 |                     |PvR    |
 |15 |    15|30.05 |Prüfung             |BG/PvR |
