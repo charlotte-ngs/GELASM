@@ -87,6 +87,7 @@ Die Folien zur Vorlesung, die Übungen und die Lösungen zu den Übungen können
 |    12|09.05 | [Lineare Regression (Teil 3)](http://charlotte-ngs.github.io/GELASM/w12/asmas_w12_u4.pdf) |PvR    |
 |    13|16.05 |Pfingstmontag (frei) |       |
 |    14|23.05 | [LASSO](http://charlotte-ngs.github.io/GELASM/w13/asmas_w13_n1.pdf) |PvR    |
+|    14|23.05 | [Bayes](http://charlotte-ngs.github.io/GELASM/w13/asmas_w13_n2.pdf) |PvR    |
 |    15|30.05 |Prüfung             |BG/PvR |
 
 
